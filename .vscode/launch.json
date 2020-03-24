@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-<loookk-manager>",
+            "request": "launch",
+            "mainClass": "com.jump2cn.loookk.manager.LoookkManagerApplication",
+            "projectName": "loookk-manager"
+        }
+    ]
+}
